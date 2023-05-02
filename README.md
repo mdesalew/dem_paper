@@ -1,6 +1,6 @@
-# Code supplement for DEM comparison paper
+### Code supplement for DEM comparison paper
 
-## Scripts used for comparing the effects of DEMs on hydrological modeling
+#### Scripts used for comparing the effects of DEMs on hydrological modeling
 
-# Acknowledgements
+### Acknowledgements
 This work was supported by mobilitas-Pluss postdoctoral researcher grant.
