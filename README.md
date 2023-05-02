@@ -1,1 +1,1 @@
-# dem_paper
+# Code supplement for DEM comparison paper
